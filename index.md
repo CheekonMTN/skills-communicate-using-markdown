@@ -9,3 +9,7 @@ Tested different headers and committed them in the index.md
 ``` javascript
 var myVar = "Hello, world! I am Michael Nguyen, and I'm learning Github!!!!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
